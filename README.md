@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xaephare&theme=tokyonight&hide_border=true&fire=DD3015)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xaephare&theme=tokyonight&hide_border=true&fire=DD3015&background=07090C)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xaephare&theme=tokyonight&hide_border=true&fire=DD3015&background=0B0F14)](https://git.io/streak-stats)

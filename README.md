@@ -1,5 +1,3 @@
-### Happy New year 🎉🎉🎉
-
 ### I'm Louis,
 a self taught software developer.
 

@@ -1,9 +1,5 @@
 ### I'm Louis,
 a self taught software developer.
-
-
-- 🌱 I’m currently learning Python, Typescript, Svelte and C++
-- 🤔 I’m looking for help with literally anything
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaephare&theme=tokyonight&hide_border=true&bg_color=090D11)](https://github.com/anuraghazra/github-readme-stats)
